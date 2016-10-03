@@ -1,0 +1,15 @@
+{
+    "name": "payuzduotis/payuzduotis",
+    "description": "Paysera uzduotis",
+    "license": "MIT",
+    "type": "project",
+    "require": {
+        "php": ">=5.5.9"
+    },
+    "autoload": {
+        "psr-4": { "PayUzduotis\\": "app/" }
+    },
+    "require-dev": {
+        "simpletest/simpletest": "^1.1"
+    }
+}
